@@ -33,6 +33,19 @@ exports.redis = {
   //   },
   // ]},
 
+  // sentinel Redis
+  // client: {
+  //   sentinels: [{
+  //     host: 'host',
+  //     port: 'port',
+  //   }, {
+  //     host: 'host',
+  //     port: 'port',
+  //   }],
+  //   name: 'name',
+  //   password: 'password',
+  // },
+
   // Multi Redis
   // clients: {
   //   instance1: {
